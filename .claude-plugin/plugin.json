@@ -1,0 +1,9 @@
+{
+  "name": "scripts-panel",
+  "version": "0.2.0",
+  "description": "A Scripts panel collecting the shell commands Claude gives you, with Run, Copy and Pin per row",
+  "author": { "name": "Redfloor", "url": "https://github.com/Redfloor" },
+  "repository": "https://github.com/Redfloor/claude-plugin-script-panel",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

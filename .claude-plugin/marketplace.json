@@ -1,0 +1,12 @@
+{
+  "name": "claude-plugin-script-panel",
+  "owner": { "name": "Redfloor" },
+  "description": "The Scripts panel mod for Claude Code",
+  "plugins": [
+    {
+      "name": "scripts-panel",
+      "source": "./",
+      "description": "A Scripts panel collecting the shell commands Claude gives you, with Run, Copy and Pin per row"
+    }
+  ]
+}
